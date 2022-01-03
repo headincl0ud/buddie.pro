@@ -1,1 +1,3 @@
-# buddy.pro
+# Buddie.pro 
+Deployment for buddie.pro
+---
